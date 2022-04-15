@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ##editing for C3 change
 added line for C4 chnage
 dummy line
 constant line
+=======
+>>>>>>> parent of 67bcbea (C3: Adding m4.txt and editing m2.txt & m1.txt)

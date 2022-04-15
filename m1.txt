@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 m1.txt is edited for C4 change
 added dummy line
+=======
+>>>>>>> parent of 67bcbea (C3: Adding m4.txt and editing m2.txt & m1.txt)
